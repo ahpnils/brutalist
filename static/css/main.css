@@ -464,6 +464,7 @@ footer p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+	float: left;
 }
 .article article {
   display: inline-block;
